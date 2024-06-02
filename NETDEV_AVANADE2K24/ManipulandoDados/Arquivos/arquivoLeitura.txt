@@ -1,0 +1,3 @@
+Arquivo para leitura
+1 - Linha
+2 - Linha

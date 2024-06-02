@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN1\ListaDeItens\bin\Debug\net8.0\ListaDeItens.exe
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN1\ListaDeItens\bin\Debug\net8.0\ListaDeItens.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN1\ListaDeItens\bin\Debug\net8.0\ListaDeItens.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN1\ListaDeItens\bin\Debug\net8.0\ListaDeItens.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN1\ListaDeItens\bin\Debug\net8.0\ListaDeItens.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN1\ListaDeItens\obj\Debug\net8.0\ListaDeItens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN1\ListaDeItens\obj\Debug\net8.0\ListaDeItens.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN1\ListaDeItens\obj\Debug\net8.0\ListaDeItens.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN1\ListaDeItens\obj\Debug\net8.0\ListaDeItens.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN1\ListaDeItens\obj\Debug\net8.0\ListaDeItens.sourcelink.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN1\ListaDeItens\obj\Debug\net8.0\ListaDeItens.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN1\ListaDeItens\obj\Debug\net8.0\refint\ListaDeItens.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN1\ListaDeItens\obj\Debug\net8.0\ListaDeItens.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN1\ListaDeItens\obj\Debug\net8.0\ListaDeItens.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN1\ListaDeItens\obj\Debug\net8.0\ref\ListaDeItens.dll

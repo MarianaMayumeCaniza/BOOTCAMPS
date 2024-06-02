@@ -1,0 +1,15 @@
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\SwitchCase\bin\Debug\net8.0\SwitchCase.exe
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\SwitchCase\bin\Debug\net8.0\SwitchCase.deps.json
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\SwitchCase\bin\Debug\net8.0\SwitchCase.runtimeconfig.json
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\SwitchCase\bin\Debug\net8.0\SwitchCase.dll
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\SwitchCase\bin\Debug\net8.0\SwitchCase.pdb
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\SwitchCase\obj\Debug\net8.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfoInputs.cache
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfo.cs
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\SwitchCase\obj\Debug\net8.0\SwitchCase.csproj.CoreCompileInputs.cache
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\SwitchCase\obj\Debug\net8.0\SwitchCase.sourcelink.json
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\SwitchCase\obj\Debug\net8.0\SwitchCase.dll
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\SwitchCase\obj\Debug\net8.0\refint\SwitchCase.dll
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\SwitchCase\obj\Debug\net8.0\SwitchCase.pdb
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\SwitchCase\obj\Debug\net8.0\SwitchCase.genruntimeconfig.cache
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\SwitchCase\obj\Debug\net8.0\ref\SwitchCase.dll

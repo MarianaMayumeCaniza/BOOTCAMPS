@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasCondicionais\bin\Debug\net8.0\EstruturasCondicionais.exe
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasCondicionais\bin\Debug\net8.0\EstruturasCondicionais.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasCondicionais\bin\Debug\net8.0\EstruturasCondicionais.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasCondicionais\bin\Debug\net8.0\EstruturasCondicionais.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasCondicionais\bin\Debug\net8.0\EstruturasCondicionais.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.sourcelink.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasCondicionais\obj\Debug\net8.0\refint\EstruturasCondicionais.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasCondicionais\obj\Debug\net8.0\ref\EstruturasCondicionais.dll
