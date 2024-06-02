@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeProjetoHospedagemHotel\obj\Debug\net8.0\DesafioDeProjetoHospedagemHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeProjetoHospedagemHotel\obj\Debug\net8.0\DesafioDeProjetoHospedagemHotel.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeProjetoHospedagemHotel\obj\Debug\net8.0\DesafioDeProjetoHospedagemHotel.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeProjetoHospedagemHotel\obj\Debug\net8.0\DesafioDeProjetoHospedagemHotel.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeProjetoHospedagemHotel\obj\Debug\net8.0\DesafioDeProjetoHospedagemHotel.sourcelink.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeProjetoHospedagemHotel\bin\Debug\net8.0\DesafioDeProjetoHospedagemHotel.exe
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeProjetoHospedagemHotel\bin\Debug\net8.0\DesafioDeProjetoHospedagemHotel.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeProjetoHospedagemHotel\bin\Debug\net8.0\DesafioDeProjetoHospedagemHotel.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeProjetoHospedagemHotel\bin\Debug\net8.0\DesafioDeProjetoHospedagemHotel.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeProjetoHospedagemHotel\bin\Debug\net8.0\DesafioDeProjetoHospedagemHotel.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeProjetoHospedagemHotel\obj\Debug\net8.0\DesafioDeProjetoHospedagemHotel.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeProjetoHospedagemHotel\obj\Debug\net8.0\refint\DesafioDeProjetoHospedagemHotel.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeProjetoHospedagemHotel\obj\Debug\net8.0\DesafioDeProjetoHospedagemHotel.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeProjetoHospedagemHotel\obj\Debug\net8.0\DesafioDeProjetoHospedagemHotel.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeProjetoHospedagemHotel\obj\Debug\net8.0\ref\DesafioDeProjetoHospedagemHotel.dll

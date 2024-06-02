@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tjbf++vzKZc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maria\\OneDrive\\Área de Trabalho\\PROJETOSGITHUB\\BOOTCAMPS\\NETDEV_AVANADE2K24\\ManipulandoDados\\Nuget\\Nuget.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

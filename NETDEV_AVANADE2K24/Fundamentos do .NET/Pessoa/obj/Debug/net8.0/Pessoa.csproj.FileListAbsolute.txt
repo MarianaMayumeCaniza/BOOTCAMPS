@@ -1,0 +1,15 @@
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\Pessoa\bin\Debug\net8.0\Pessoa.exe
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\Pessoa\bin\Debug\net8.0\Pessoa.deps.json
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\Pessoa\bin\Debug\net8.0\Pessoa.runtimeconfig.json
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\Pessoa\bin\Debug\net8.0\Pessoa.dll
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\Pessoa\bin\Debug\net8.0\Pessoa.pdb
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\Pessoa\obj\Debug\net8.0\Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\Pessoa\obj\Debug\net8.0\Pessoa.AssemblyInfoInputs.cache
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\Pessoa\obj\Debug\net8.0\Pessoa.AssemblyInfo.cs
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\Pessoa\obj\Debug\net8.0\Pessoa.csproj.CoreCompileInputs.cache
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\Pessoa\obj\Debug\net8.0\Pessoa.sourcelink.json
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\Pessoa\obj\Debug\net8.0\Pessoa.dll
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\Pessoa\obj\Debug\net8.0\refint\Pessoa.dll
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\Pessoa\obj\Debug\net8.0\Pessoa.pdb
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\Pessoa\obj\Debug\net8.0\Pessoa.genruntimeconfig.cache
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\Pessoa\obj\Debug\net8.0\ref\Pessoa.dll

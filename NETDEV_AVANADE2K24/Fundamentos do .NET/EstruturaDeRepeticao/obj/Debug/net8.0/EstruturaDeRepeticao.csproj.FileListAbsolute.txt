@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturaDeRepeticao\bin\Debug\net8.0\EstruturaDeRepeticao.exe
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturaDeRepeticao\bin\Debug\net8.0\EstruturaDeRepeticao.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturaDeRepeticao\bin\Debug\net8.0\EstruturaDeRepeticao.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturaDeRepeticao\bin\Debug\net8.0\EstruturaDeRepeticao.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturaDeRepeticao\bin\Debug\net8.0\EstruturaDeRepeticao.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.sourcelink.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturaDeRepeticao\obj\Debug\net8.0\refint\EstruturaDeRepeticao.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturaDeRepeticao\obj\Debug\net8.0\EstruturaDeRepeticao.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturaDeRepeticao\obj\Debug\net8.0\ref\EstruturaDeRepeticao.dll

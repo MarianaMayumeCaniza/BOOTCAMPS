@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasLógicas\EstruturaLogica\bin\Debug\net8.0\EstruturaLogica.exe
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasLógicas\EstruturaLogica\bin\Debug\net8.0\EstruturaLogica.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasLógicas\EstruturaLogica\bin\Debug\net8.0\EstruturaLogica.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasLógicas\EstruturaLogica\bin\Debug\net8.0\EstruturaLogica.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasLógicas\EstruturaLogica\bin\Debug\net8.0\EstruturaLogica.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasLógicas\EstruturaLogica\obj\Debug\net8.0\EstruturaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasLógicas\EstruturaLogica\obj\Debug\net8.0\EstruturaLogica.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasLógicas\EstruturaLogica\obj\Debug\net8.0\EstruturaLogica.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasLógicas\EstruturaLogica\obj\Debug\net8.0\EstruturaLogica.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasLógicas\EstruturaLogica\obj\Debug\net8.0\EstruturaLogica.sourcelink.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasLógicas\EstruturaLogica\obj\Debug\net8.0\EstruturaLogica.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasLógicas\EstruturaLogica\obj\Debug\net8.0\refint\EstruturaLogica.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasLógicas\EstruturaLogica\obj\Debug\net8.0\EstruturaLogica.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasLógicas\EstruturaLogica\obj\Debug\net8.0\EstruturaLogica.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\Fundamentos do .NET\EstruturasLógicas\EstruturaLogica\obj\Debug\net8.0\ref\EstruturaLogica.dll
