@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN2\CalculandoDano\obj\Debug\net8.0\CalculandoDano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN2\CalculandoDano\obj\Debug\net8.0\CalculandoDano.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN2\CalculandoDano\obj\Debug\net8.0\CalculandoDano.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN2\CalculandoDano\obj\Debug\net8.0\CalculandoDano.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN2\CalculandoDano\obj\Debug\net8.0\CalculandoDano.sourcelink.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN2\CalculandoDano\bin\Debug\net8.0\CalculandoDano.exe
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN2\CalculandoDano\bin\Debug\net8.0\CalculandoDano.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN2\CalculandoDano\bin\Debug\net8.0\CalculandoDano.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN2\CalculandoDano\bin\Debug\net8.0\CalculandoDano.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN2\CalculandoDano\bin\Debug\net8.0\CalculandoDano.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN2\CalculandoDano\obj\Debug\net8.0\CalculandoDano.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN2\CalculandoDano\obj\Debug\net8.0\refint\CalculandoDano.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN2\CalculandoDano\obj\Debug\net8.0\CalculandoDano.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN2\CalculandoDano\obj\Debug\net8.0\CalculandoDano.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\NETDEV_AVANADE2K24\DesafioDeCodigoN2\CalculandoDano\obj\Debug\net8.0\ref\CalculandoDano.dll
