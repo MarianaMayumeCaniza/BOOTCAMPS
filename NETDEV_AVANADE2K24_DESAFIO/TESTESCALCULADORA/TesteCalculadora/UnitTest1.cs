@@ -51,4 +51,21 @@ public class UnitTest1
             () => calc.dividir(3,0)
         );
     }
+
+    [Fact]
+    public void TestarHistorico(){
+        Historico historico = new Historico();
+        CalculadoraSimples calc = new CalculadoraSimples(historico);
+        
+        calc.somar(1,1);
+        calc.somar(2,2);
+        calc.somar(3,5);
+        calc.somar(4,5);
+
+        List<string> historicoOperacoes = historico.HistoricoOperacoes;
+
+
+
+        //Assert.NotEmpty();
+    }
 }
