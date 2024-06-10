@@ -15,17 +15,17 @@ namespace DESAFIOCALCULADORA.Models
 
         public void AdicionarOperacao(string operacao)
         {
-            _historico.Add(operacao);
+            _historico.Insert(0,operacao);
         }
 
         public List<string> HistoricoOperacoes
         {
-            get { return _historico; }
+            get { 
+                
+                _historico.RemoveRange(3, _historico.Count - 3);   
+                return _historico; }
         }
 
-        public List<string> ObterTresUltimasOperacoes()
-        {
-            return _historico.Skip(Math.Max(0, _historico.Count - 3)).Take(3).ToList();
-        }
+        
     }
 }
