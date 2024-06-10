@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DESAFIOCALCULADORA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3fb6a2bc4c0edd894a7718d9ab47397126272e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2539c83aa1384c9ed37f8a5cf8c94e48e2e83b78")]
 [assembly: System.Reflection.AssemblyProductAttribute("DESAFIOCALCULADORA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DESAFIOCALCULADORA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
