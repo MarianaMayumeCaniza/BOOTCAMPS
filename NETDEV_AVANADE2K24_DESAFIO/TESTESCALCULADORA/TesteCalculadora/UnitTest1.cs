@@ -67,17 +67,24 @@ public class UnitTest1
     [Fact]
     public void TestarHistorico(){
     
-        CalculadoraSimples calc = construirClasse();
-        
-        calc.Somar(1,1);
-        calc.Somar(2,2);
-        calc.Somar(3,5);
-        calc.Somar(4,5);
+        // Cria uma instância de Historico
+            Historico historico = new Historico();
+            string data = "02/02/2020";
 
-        
+            // Cria uma instância de CalculadoraSimples, passando o historico
+            CalculadoraSimples calculadora = new CalculadoraSimples(historico, data);
 
+            // Realiza algumas operações com a calculadora
+            calculadora.Somar(1, 1);
+            calculadora.Somar(2, 2);
+            calculadora.Somar(3, 5);
+            calculadora.Somar(4, 5);
 
+            // Obtém o histórico de operações da instância de Historico
+            var lista = historico.HistoricoOperacoes;
 
-        //Assert.NotEmpty();
+            // Verifica se o histórico não está vazio e se tem o tamanho esperado
+            Assert.NotEmpty(lista);
+            Assert.Equal(3, lista.Count);
     }
 }
