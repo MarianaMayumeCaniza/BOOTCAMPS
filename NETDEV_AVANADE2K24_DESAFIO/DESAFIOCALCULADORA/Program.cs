@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection;
 using DESAFIOCALCULADORA.Models;
 
 
@@ -16,6 +17,14 @@ using DESAFIOCALCULADORA.Models;
             calculadora.Somar(3, 5);
             calculadora.Somar(4, 5);
 
+            // Obtendo o histórico de operações
+            var lista = historico.HistoricoOperacoes;
+
+            // Imprimindo o histórico de operações
+            foreach (var operacao in lista)
+            {
+                Console.WriteLine(operacao);
+            }
             
     
 

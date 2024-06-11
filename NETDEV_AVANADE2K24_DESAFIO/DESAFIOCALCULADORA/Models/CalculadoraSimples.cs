@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 
 namespace DESAFIOCALCULADORA.Models
 {
@@ -6,6 +7,7 @@ namespace DESAFIOCALCULADORA.Models
     {
         private Historico _historico;
         private string _data;
+        public IEnumerable historico;
 
         public CalculadoraSimples(Historico historico, string data)
         {
